@@ -35,7 +35,7 @@ Navigate to your `untrimmed_fastq` directory.
 $ cd ~/dc_sample_data/untrimmed_fastq
 ~~~
 {: .bash}
-
+ 
 We are interested in looking at the FASTQ files in this directory. We can list
 all files with the .fastq extension using the command:
 
